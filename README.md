@@ -1,6 +1,6 @@
-# LLM View Downloads
+# Pocket LLM Studio Downloads
 
-Official installer downloads for **LLM View Companion**, the Windows desktop companion for chatting with a local AI model and editing project files from your computer or a paired phone.
+Official installer downloads for **Pocket LLM Studio Companion**, the Windows desktop companion for chatting with a local AI model and editing project files from your computer or a paired phone.
 
 This repository distributes installers through **GitHub Releases**. It does not contain the application's source code.
 
@@ -23,6 +23,6 @@ For remote access, configure a relay and pair your phone with approval on the co
 
 ## Preview notice
 
-LLM View is an early preview. Current Windows installers are unsigned, so Windows may display an unknown-publisher or SmartScreen warning. Install only releases you trust.
+Pocket LLM Studio is an early preview. Current Windows installers are unsigned, so Windows may display an unknown-publisher or SmartScreen warning. Install only releases you trust.
 
 Back up important projects before allowing a model to edit files. Share only intended project folders, not folders containing credentials or other sensitive information.
